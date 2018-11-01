@@ -1,4 +1,4 @@
-
+[![Build Status](https://batpaas.visualstudio.com/vstsadhoc011118/_apis/build/status/markl11.pipelines-java)](https://batpaas.visualstudio.com/vstsadhoc011118/_build/latest?definitionId=9)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
